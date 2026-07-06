@@ -1,0 +1,19 @@
+{
+  "id": "cloud_report_1781092569963_8608a12c",
+  "type": "cloud_report",
+  "data": {
+    "file_path": "/Users/deckmount/Desktop/cardiox software/Updated code/new1/qww_new/reports/hyper_metric.json",
+    "metadata": {
+      "filename": "hyper_metric.json",
+      "uploaded_at": "2026-06-10T17:26:09.963824",
+      "file_size": 327,
+      "file_type": ".json",
+      "report_type": "hyperkalemia"
+    },
+    "cloud_service": "s3"
+  },
+  "priority": 2,
+  "queued_at": "2026-06-10T11:56:09.964004Z",
+  "retry_count": 2,
+  "status": "pending"
+}

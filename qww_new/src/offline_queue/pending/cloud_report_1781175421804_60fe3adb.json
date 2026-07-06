@@ -1,0 +1,18 @@
+{
+  "id": "cloud_report_1781175421804_60fe3adb",
+  "type": "cloud_report",
+  "data": {
+    "file_path": "/Users/deckmount/Desktop/cardiox software/Updated code/ProD/qww_new/reports/hyper_metric.json",
+    "metadata": {
+      "filename": "hyper_metric.json",
+      "uploaded_at": "2026-06-11T16:27:01.804385",
+      "file_size": 652,
+      "file_type": ".json"
+    },
+    "cloud_service": "s3"
+  },
+  "priority": 2,
+  "queued_at": "2026-06-11T10:57:01.804543Z",
+  "retry_count": 0,
+  "status": "pending"
+}

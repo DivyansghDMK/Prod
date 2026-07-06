@@ -1,0 +1,19 @@
+{
+  "id": "cloud_report_1781178153517_b0d116a4",
+  "type": "cloud_report",
+  "data": {
+    "file_path": "/Users/deckmount/Desktop/cardiox software/Updated code/ProD/qww_new/reports/ecg_payloads/12_lead_DM ECG V1.0 A010_20260608_103203.json",
+    "metadata": {
+      "filename": "12_lead_DM ECG V1.0 A010_20260608_103203.json",
+      "uploaded_at": "2026-06-11T17:12:33.517319",
+      "file_size": 1151926,
+      "file_type": ".json",
+      "report_type": "12_lead_ecg"
+    },
+    "cloud_service": "s3"
+  },
+  "priority": 2,
+  "queued_at": "2026-06-11T11:42:33.517412Z",
+  "retry_count": 1,
+  "status": "pending"
+}

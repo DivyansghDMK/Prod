@@ -1,0 +1,19 @@
+{
+  "id": "cloud_report_1781178153516_1f17e67d",
+  "type": "cloud_report",
+  "data": {
+    "file_path": "/Users/deckmount/Desktop/cardiox software/Updated code/ProD/qww_new/reports/index.json",
+    "metadata": {
+      "filename": "index.json",
+      "uploaded_at": "2026-06-11T17:12:33.516867",
+      "file_size": 746,
+      "file_type": ".json",
+      "report_type": "ecg_report"
+    },
+    "cloud_service": "s3"
+  },
+  "priority": 2,
+  "queued_at": "2026-06-11T11:42:33.516982Z",
+  "retry_count": 1,
+  "status": "pending"
+}

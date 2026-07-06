@@ -1,0 +1,20 @@
+{
+  "id": "cloud_report_1780897554486_1fd0e78a",
+  "type": "cloud_report",
+  "data": {
+    "file_path": "/Users/deckmount/Desktop/cardiox software/Updated code/new1/qww_new/reports/index.json",
+    "metadata": {
+      "filename": "index.json",
+      "uploaded_at": "2026-06-08T11:15:54.486541",
+      "file_size": 250,
+      "file_type": ".json",
+      "report_type": "ecg_report",
+      "machine_serial": "DM ECG V1.0 A010"
+    },
+    "cloud_service": "s3"
+  },
+  "priority": 2,
+  "queued_at": "2026-06-08T05:45:54.486590Z",
+  "retry_count": 4,
+  "status": "pending"
+}

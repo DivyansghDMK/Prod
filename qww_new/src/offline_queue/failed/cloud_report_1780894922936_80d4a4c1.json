@@ -1,0 +1,23 @@
+{
+  "id": "cloud_report_1780894922936_80d4a4c1",
+  "type": "cloud_report",
+  "data": {
+    "file_path": "/Users/deckmount/Downloads/ECG_Analysis_Unknown_20260608_103125_ecg_data.json",
+    "metadata": {
+      "filename": "ECG_Analysis_Unknown_20260608_103125_ecg_data.json",
+      "uploaded_at": "2026-06-08T10:32:02.887590",
+      "file_size": 720866,
+      "file_type": ".json",
+      "patient_name": "Unknown",
+      "patient_age": "",
+      "patient_gender": "",
+      "report_date": "",
+      "report_type": "analysis"
+    },
+    "cloud_service": "s3"
+  },
+  "priority": 2,
+  "queued_at": "2026-06-08T05:02:02.936048Z",
+  "retry_count": 4,
+  "status": "pending"
+}

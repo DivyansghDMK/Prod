@@ -1,0 +1,19 @@
+{
+  "id": "cloud_report_1781174656934_f8d3c0c7",
+  "type": "cloud_report",
+  "data": {
+    "file_path": "/Users/deckmount/Desktop/cardiox software/Updated code/ProD/qww_new/reports/Hyperkalemia_Report_DM ECG V1.0 A010_20260610_144913.pdf",
+    "metadata": {
+      "filename": "Hyperkalemia_Report_DM ECG V1.0 A010_20260610_144913.pdf",
+      "uploaded_at": "2026-06-11T16:14:16.934867",
+      "file_size": 110599,
+      "file_type": ".pdf",
+      "report_type": "hyperkalemia"
+    },
+    "cloud_service": "s3"
+  },
+  "priority": 2,
+  "queued_at": "2026-06-11T10:44:16.934960Z",
+  "retry_count": 1,
+  "status": "pending"
+}
