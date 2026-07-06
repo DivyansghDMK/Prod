@@ -1,5 +1,42 @@
-node_modules
+# Dependencies
+node_modules/
+
+# Environment files
 .env
-.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build outputs
+HCP/dist/
+HCP/build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 *.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Uploads (store these in S3 in production
 uploads/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Docker
+*.pid
+*.seed
+*.pid.lock
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
